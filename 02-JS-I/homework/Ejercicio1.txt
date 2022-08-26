@@ -1,0 +1,12 @@
+Variables: es una manera de darle valor a algo para utilizarlo despues.
+existen tres tipos de variables:
+var: es la forma de declarar una  variable. es la palabra clave.
+let: 
+const:
+
+
+
+strings: son bloques de textos que se escriben entre comillas. cualquier texto entre comillas es un strings.
+
+
+booleanos: significa que tenes dos opciones, verdadero o falso. los valores posibles en un dato booleanos son true o false
