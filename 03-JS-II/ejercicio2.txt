@@ -1,0 +1,10 @@
+For: sirve para hacer tareas repetitivas de manera sencilla. ejemplo si necesito escribir una lista del numero 1 al 1000
+operadores logicos:
+&&: este es el operador "Y", evaluara laas expresiones y decolvera verdadero si ambas expresiones son true. si uno o ambas expresiones es falso, el operador devolvera False.
+
+||: este es el operador "o", EVALUARA si ALGUNA de las expresiones es true. devolvera true si una o ambas de las expresiones es es true.
+ devolvera false si AMBAS son false.
+
+
+!: este operador es el "NOT". ESTE DEVOLVERA EL VALOR BOOLEANO OPUESTO DE LO QUE SE LE PASA. EJEMPLO; 
+SI p es veradero !p sera falso poruqe devuelve lo opuesto.
